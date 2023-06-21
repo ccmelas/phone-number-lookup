@@ -1,0 +1,10 @@
+version: "3.0"
+services:
+  app:
+    build: .
+    container_name: phone-number-lookup-app
+    working_dir: /app
+    volumes:
+      - .:/app
+    ports:
+      - "8030:8080"

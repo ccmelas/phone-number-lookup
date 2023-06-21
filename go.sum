@@ -1,0 +1,8 @@
+github.com/golang/protobuf v1.3.2 h1:6nsPYzhq5kReh6QImI3k5qWzO4PEbvbIW2cwSfR/6xs=
+github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+github.com/mikekonan/go-countries v1.1.2 h1:NTkf5myJSEuzex5N7XLEO+iHxSirferm3WKVZqoucBc=
+github.com/mikekonan/go-countries v1.1.2/go.mod h1:xedjaVuxceyNbu1NwPNsSRud3rG07/vQGkFh+Ec2YQ8=
+github.com/nyaruka/phonenumbers v1.1.7 h1:5UUI9hE79Kk0dymSquXbMYB7IlNDNhvu2aNlJpm9et8=
+github.com/nyaruka/phonenumbers v1.1.7/go.mod h1:DC7jZd321FqUe+qWSNcHi10tyIyGNXGcNbfkPvdp1Vs=
+golang.org/x/text v0.3.8 h1:nAL+RVCQ9uMn3vJZbV+MRnydTJFPf8qqY42YiA6MrqY=
+golang.org/x/text v0.3.8/go.mod h1:E6s5w1FMmriuDzIBO73fBruAKo1PCIq6d2Q6DHfQ8WQ=
